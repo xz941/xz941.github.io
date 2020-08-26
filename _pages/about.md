@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Industrial Engineering at Arizona State University, advised by [Hao Yan](http://www.public.asu.edu/~hyan46/). Prior to studying at ASU, I received my M.S. degree in University of Washinton and B.S. degree in Jilin University. 
 
-My research interest primarily focus on developing sequential models for vairous applications. Currently I'm working on the two following projects: building high-dimensional process monitoring system, extracting structured information from air-traffic accident report for safety improvement. 
+My research interest primarily focus on developing sequential models for vairous applications. Currently I'm working on the two following projects: building high-dimensional process monitoring system, extracting structured information from air-traffic accident report for safety improvement. A copy of my [CV](https://xz941.github.io/assets/CV.pdf) is here. 
 
 # Publications
 
