@@ -16,9 +16,9 @@ My research interest primarily focus on developing sequential models for vairous
 
 - Hao Yan, **Xinyu Zhao**, Zhiyong Hu, and Dongping Du. [Physics-based deep spatio-temporal metamodel-ing for cardiac electrical conduction simulation](https://ieeexplore.ieee.org/abstract/document/8842902). IEEE 15th International Conference on AutomationScience and Engineering (CASE), 2019
 
-- **Xinyu Zhao**, Hao Yan, Jing Li, Yutian Pang, and Yongming Liu. [Spatio-temporal anomaly detection,diagnostics,  and  prediction  of  the  air-traffic  trajectory  deviation  using  the  convective  weather](https://asu.pure.elsevier.com/en/publications/spatio-temporal-anomaly-detection-diagnostics-and-prediction-of-t), 11th Annual Conference of the Prognostics and Health Management Society, PHM 2019
+- **Xinyu Zhao**, Hao Yan, Jing Li, Yutian Pang, and Yongming Liu. [Spatio-temporal anomaly detection,diagnostics,  and  prediction  of  the  air-traffic  trajectory  deviation  using  the  convective  weather](https://www.phmpapers.org/index.php/phmconf/article/view/854), 11th Annual Conference of the Prognostics and Health Management Society, PHM 2019
 
-- **Xinyu Zhao**, Yunyi Kang, Hao Yan, and Feng Ju. [Semi-supervised constrained hidden markov modelusing  multiple  sensors  for  remaining  useful  life  prediction  and  optimal  predictive  maintenance](https://asu.pure.elsevier.com/en/publications/semi-supervised-constrained-hidden-markov-model-using-multiple-se), 11th Annual Conference of the Prognostics and Health Management Society, PHM 2019
+- **Xinyu Zhao**, Yunyi Kang, Hao Yan, and Feng Ju. [Semi-supervised constrained hidden markov modelusing  multiple  sensors  for  remaining  useful  life  prediction  and  optimal  predictive  maintenance](https://www.phmpapers.org/index.php/phmconf/article/view/851), 11th Annual Conference of the Prognostics and Health Management Society, PHM 2019
 
   
 
